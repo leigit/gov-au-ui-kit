@@ -69,6 +69,13 @@ code {
   color: $navy;
 }
 
+.guide-section {
+  .wrapper {
+    box-sizing: border-box;
+    min-width: 0;
+  }
+}
+
 .guide-colour {
   float: left;
   width: 43%;
