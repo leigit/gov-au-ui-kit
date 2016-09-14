@@ -2,6 +2,10 @@
 
 ## UI Kit "Kraken"
 
+#### Bugfixes
+
+- Fix for missing feedback button on mobile [#348](https://github.com/AusDTO/gov-au-ui-kit/issues/348). Header feedback button continues to be hidden on mobile but support is now provided for a feedback button to be used in the footer which is visible at mobile sizes.
+
 ### 1.8.0 - 2016-09-09
 
 #### UI-Kit changes
